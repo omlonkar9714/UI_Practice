@@ -5,4 +5,5 @@ export default AppColors = {
   white: 'white',
   poederblue: '#4CB1FF',
   orangeButton: '#FF7F2D',
+  transparent: 'transparent',
 };
